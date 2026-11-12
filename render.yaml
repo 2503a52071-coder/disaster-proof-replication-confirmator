@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: replica-guard-dashboard
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
